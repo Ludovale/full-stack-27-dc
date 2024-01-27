@@ -1,0 +1,14 @@
+.cabecalho {
+    background-color: var(--gray);
+    color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1.25rem 0;
+}
+
+.cabecalho img {
+    height: 2rem;
+    width: 2rem;
+}
